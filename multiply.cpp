@@ -5,6 +5,6 @@ int main()
     int a,b;
     cin>>a>>b;
     cout<<a*b<<endl;
-    cout<<"multiply="<<a*b;
+    cout<<" The product of a and b="<<a*b;
 
 }
